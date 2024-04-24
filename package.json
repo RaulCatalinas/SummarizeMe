@@ -25,7 +25,6 @@
   "devDependencies": {
     "@commitlint/cli": "19.3.0",
     "@commitlint/config-conventional": "19.2.2",
-    "@s-ui/mono": "2.45.0",
     "@typescript-eslint/eslint-plugin": "^7.0.1",
     "eslint": "^8.0.1",
     "eslint-config-love": "47.0.0",
