@@ -13,7 +13,7 @@
     "lint:fix": "eslint src --fix",
     "format": "prettier src --check",
     "format:write": "prettier src --write",
-    "co": "sui-mono commit"
+    "co": "husky && sui-mono commit"
   },
   "dependencies": {
     "@astrojs/check": "0.5.10",
